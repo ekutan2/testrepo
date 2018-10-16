@@ -1,1 +1,2 @@
-my test file ver 1
+my test file ver 2
+somedata
